@@ -11,3 +11,7 @@ h1 {
 h2 {
   color: #33ffbe;
 }
+img {
+  width: 300px;
+  border-radius: 10px; /* opcional: para esquinas redondeadas */
+}
