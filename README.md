@@ -1,8 +1,18 @@
 Bienvenido a la página del clashito, top 10 cartas xdxdxd dos puntos uve..
+
+
 TOP 10 CARTAS DE CLASH ROYALE SEGÚN UN VIDEO DE YOUTUBE..
+
+
 TOP 10: RAYO..
+
+
 TOP 9: BERSERKER..
+
+
 TOP 8: FLECHAS..
+
+
 TOP 7: MINI PEKKA..
 TOP 6: TRONCO..
 TOP 5: GUARDIAS..
