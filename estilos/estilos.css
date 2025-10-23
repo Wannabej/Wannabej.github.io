@@ -1,0 +1,63 @@
+
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #110031;
+    color: aliceblue;
+    margin: 0px;
+}
+
+header{
+    background-color: #120527;
+}
+
+nav{
+    background-color: #120527;
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    text-align: center;
+    list-style: none;
+    justify-content: center;
+}
+
+nav ul li{
+    margin: 0 auto;
+}
+
+section{
+    text-align: center;
+}
+
+#hero-image{
+    width: 500px;
+    border-radius: 40px;
+    margin: 20px;
+}
+
+#header-image{
+    width: 40px;  
+}
+
+#description{
+    margin: 100px;
+}
+
+.carta{
+    width: 240px;
+}
+
+div{
+    text-align: center;
+}
+
+.card-container{
+    margin: 100px;
+}
+
+p{
+    max-width: 800px;
+    margin: 0px auto;
+}
