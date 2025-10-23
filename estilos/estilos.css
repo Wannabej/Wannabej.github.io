@@ -1,4 +1,11 @@
 
+h1{
+    color: orange
+}
+
+h2{
+    color: cadetblue
+}
 
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -39,6 +46,7 @@ section{
 
 #header-image{
     width: 40px;  
+    margin: 20px;
 }
 
 #description{
